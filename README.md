@@ -1,1 +1,1 @@
-# docker-wp-mysql-test
+# docker-wp-mysql-phpmyadmin-test
